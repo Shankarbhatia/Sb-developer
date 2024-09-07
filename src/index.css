@@ -1,0 +1,117 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: Monte;
+    src: url("./fonts/Montserrat-VariableFont_wght.ttf");
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html, body{
+    width: 100%;
+    height: 100%;
+    font-family: Monte;
+    scroll-behavior: smooth;
+}
+.cursor {
+    width: 20px;
+    height: 20px;
+    background-color: #4B006D;
+    border:2px solid #fff;
+    border-radius: 50%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 99999;
+  }
+
+.container{
+    max-width: 1280px;
+    margin: 0 auto;
+}
+/* .slick-slide>div {
+    margin: 0 10px;
+} */
+
+
+.slick-prev:before, .slick-next:before {
+    font-family: 'slick';
+    font-size: 28px !important;
+    line-height: 1;
+    opacity: .75;
+    color: #fff !important;
+    background: #000;
+    border-radius: 50%;
+}
+
+.slick-prev {
+    left: -50px !important;
+}
+
+.slick-next {
+    right: -50px !important;
+}
+
+.testCols .slick-dots {
+    display: none !important;
+}
+
+.visitSite:hover .arrowsvg{
+    rotate: -45deg;
+}
+
+
+/* --Tabs --- */
+
+.react-tabs__tab--selected {
+    background: #13A300 !important;
+    border-color: #000 !important;
+    color: #fff !important;
+    border-radius: 50px !important;
+}
+
+
+.gotop svg{
+    animation: gotop 2s infinite ease-in-out ;
+}
+
+
+/* goTop Animation */
+
+@keyframes gotop{
+
+    0% {
+        transform: translateY(-0.2rem);
+        opacity: 0.7;
+    }
+    100% {
+        transform: translateY(0.2rem);
+        opacity: 1;
+    }
+    
+    }
+    
+    @media (320px <= width <=800px) {
+    
+        .slick-prev:before,
+        .slick-next:before {
+            display: none;
+        }
+    
+       .testCols .slick-dots {
+            display: block !important;
+        }
+        .CaseStudieSlider-container .slick-dots {
+            display: block !important;
+    
+        }
+        .slick-slide>div {
+            margin: 0;
+        }
+    }
