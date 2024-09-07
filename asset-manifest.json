@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/Sb-developer/static/css/main.12b15716.css",
-    "main.js": "/Sb-developer/static/js/main.3b2131a4.js",
-    "static/js/453.2fc720c7.chunk.js": "/Sb-developer/static/js/453.2fc720c7.chunk.js",
-    "static/media/hero-img.png": "/Sb-developer/static/media/hero-img.98eeab18e4127b0e0c59.png",
+    "main.css": "/Sb-developer/static/css/main.c3c0297c.css",
+    "main.js": "/Sb-developer/static/js/main.724bea7a.js",
+    "static/js/453.1895fb9b.chunk.js": "/Sb-developer/static/js/453.1895fb9b.chunk.js",
+    "static/media/hero-img.png": "/Sb-developer/static/media/hero-img.537de6ac9471713661d1.png",
     "static/media/Montserrat-VariableFont_wght.ttf": "/Sb-developer/static/media/Montserrat-VariableFont_wght.7e687123cd4528224ce5.ttf",
     "static/media/FunnelProject3.png": "/Sb-developer/static/media/FunnelProject3.e71a48f073a9ae738a55.png",
     "static/media/FunnelProject8.png": "/Sb-developer/static/media/FunnelProject8.0937cab7360ca3b7fb4b.png",
@@ -42,19 +42,14 @@
     "static/media/HtmlProject3.jpg": "/Sb-developer/static/media/HtmlProject3.717def367c7b5e52df3b.jpg",
     "static/media/webflowProject5.png": "/Sb-developer/static/media/webflowProject5.3c4fd0bd28c8311077ce.png",
     "static/media/emailTemplateproj2.png": "/Sb-developer/static/media/emailTemplateproj2.2621663115e332ce3773.png",
-    "static/media/testimonial-img.png": "/Sb-developer/static/media/testimonial-img.8e428fea69271dc7d8f7.png",
-    "static/media/slick.svg": "/Sb-developer/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/Sb-developer/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/Sb-developer/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/Sb-developer/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Sb-developer/index.html",
     "static/media/check-circle-svgrepo-com.svg": "/Sb-developer/static/media/check-circle-svgrepo-com.f6c95d30bcf8e4d1613bbfa30546cf64.svg",
-    "main.12b15716.css.map": "/Sb-developer/static/css/main.12b15716.css.map",
-    "main.3b2131a4.js.map": "/Sb-developer/static/js/main.3b2131a4.js.map",
-    "453.2fc720c7.chunk.js.map": "/Sb-developer/static/js/453.2fc720c7.chunk.js.map"
+    "main.c3c0297c.css.map": "/Sb-developer/static/css/main.c3c0297c.css.map",
+    "main.724bea7a.js.map": "/Sb-developer/static/js/main.724bea7a.js.map",
+    "453.1895fb9b.chunk.js.map": "/Sb-developer/static/js/453.1895fb9b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.12b15716.css",
-    "static/js/main.3b2131a4.js"
+    "static/css/main.c3c0297c.css",
+    "static/js/main.724bea7a.js"
   ]
 }
