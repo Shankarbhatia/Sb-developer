@@ -9,8 +9,8 @@ function ContactSection() {
     e.preventDefault();
 
     emailjs
-      .sendForm('service_ogcgjob', 'template_tdlk21g', form.current, {
-        publicKey: '12ibR_qWJW6y1ZLWO',
+      .sendForm('service_cn7hqfr', 'template_asw6wzh', form.current, {
+        publicKey: 'hqJvwFE35exgo9x2A',
       })
       .then(
         () => {
@@ -39,7 +39,7 @@ function ContactSection() {
           Let's Connect
           </h2>
           <p className="lg:text-[18px] lg:leading-[1.8em] text-[16px] leading-[1.2em] text-white text-center mt-3">
-            You have any questions? I would love to hear from you. Send me a message and I will respond as soon as possible or just email me directly at webuiexpert929@gmail.com
+            You have any questions? I would love to hear from you. Send me a message and I will respond as soon as possible or just email me directly at shankarbhatia022@gmail.com
           </p>
           <form ref={form} onSubmit={sendEmail} className="flex flex-col gap-10 mt-10 items-center justify-between w-full bg-transparent" action="">
             <div className="inputBox1 flex lg:flex-row flex-col justify-between gap-10 w-full">

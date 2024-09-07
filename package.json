@@ -1,6 +1,6 @@
 {
-  "homepage": "https://webuiexpert.github.io/bharat-singh",
-  "name": "bharat-singh",
+  "homepage": "https://Shankarbhatia.github.io/Sb-developer",
+  "name": "shankar-bhatia",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -27,6 +27,7 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
+
   },
   "eslintConfig": {
     "extends": [

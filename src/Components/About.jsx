@@ -54,7 +54,7 @@ tl.from(".expText", {
       In a quest for always keeping myself updated, I will always search new technoligies.
       </p>
       <button className="mt-5 text-[18px] leading-8 px-8 py-2 border text-white font-bold bg-[#13a300] rounded-full">
-        <a href="https://www.thecsshouse.com/wp-content/uploads/2024/09/bharat-resume.pdf" target="_black">Download Resume</a>
+        <a href="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.thecsshouse.com/wp-content/uploads/2024/02/Shankar_Sr-web-developer.pdf" target="_black">Download Resume</a>
       </button>
     </div>
     <div className="expYear w-full lg:w-1/2 lg:pl-10 flex text-[14px] flex-col gap-5">

@@ -1,5 +1,4 @@
 import React from 'react'
-import Calendly from './Calendly'
 
 function ConsultationBanner() {
   return (
@@ -8,7 +7,7 @@ function ConsultationBanner() {
         <h3 className="lg:text-[24px] text-[14px] text-center">Are you ready for serious business? or still have confusion?
         </h3>
         <button className="lg:text-[18px]  font-bold bg-[#13a300] text-white hover:bg-transparent hover:border hover:border-black px-5 py-3 rounded-full">
-          <Calendly />
+        <a href="https://api.whatsapp.com/send/?phone=9888593715&text&type=phone_number&app_absent=0">Get Touch With Us</a>
         </button>
         </div>
       
