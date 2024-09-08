@@ -28,7 +28,7 @@ gsap.from(MainRef.current, {
 })
 
   return (
-    <div className="herosection w-full lg:h-[calc(92vh-96px)] h-auto py-10 bg-[#00246d] overflow-hidden ">
+    <div className="herosection w-full lg:h-[calc(92vh-96px)] h-auto lg:py-10 py-6 bg-[#00246d] overflow-hidden ">
     <div ref={MainRef} className="container h-full flex lg:flex-row md:flex-row items-center  flex-col-reverse lg:gap-0 gap-5 lg:px-0  md:px-8 sm:px-6 px-4">
     <div className="textSection text-white lg:text-[52px] text-[28px] font-extrabold lg:leading-[56px] lg:w-[70%] md:w-[60%] w-full flex flex-col items-start justify-center">
       <h2 className="">Hello,</h2>
@@ -38,7 +38,7 @@ gsap.from(MainRef.current, {
       <h5 className="lg:my-4 lg:w-[738px] lg:text-[24px] text-[18px] font-extrabold lg:leading-[1.2em]">
       I research, code, blog, and make Designs live.
       </h5>
-      <div className="btnBox lg:mt-0  lg:w-[65%]  mt-5 gap-10 lg:flex justify-between items-end">
+      <div className="btnBox lg:mt-0  lg:w-[65%] w-[80%]  mt-5 gap-10 lg:flex justify-between items-end">
         <div className="letGoBtn lg:w-[40%] relative">
           <a href="https://api.whatsapp.com/send/?phone=9888593715&text&type=phone_number&app_absent=0">
           <button className="rounded-full booikngBtn text-[18px] w-full leading-8  px-2 py-2 border bg-[#13a300]">

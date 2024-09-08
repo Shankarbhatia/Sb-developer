@@ -38,9 +38,9 @@ function Navbar() {
   return (
     <div  className="shadow-md navbar bg-[#00246d] w-full sticky left-0 top-0 z-50 pb-1"
     >
-      <div className="container flex justify-between h-24  lg:gap-0 gap-16  items-center px-4 sm:px-6 md:px-8 lg:px-0">
+      <div className="container flex justify-between lg:h-24 lg:py-0 py-2  lg:gap-0 gap-2  items-center px-4 sm:px-6 md:px-8 lg:px-0">
         <div className="logo lg:w-[25%]  w-[40%]">
-          <h1 className="text-[26px] font-bold text-white">SHANKAR BHATIA</h1>
+          <h1 className="lg:text-[26px] font-bold text-white">SHANKAR</h1>
         </div>
         <div className="lists lg:w-auto w-[60%] flex items-center justify-between gap-10">
           <ul className="hidden sm:hidden md:hidden lg:flex items-center gap-7 text-[20px] text-white font-semibold ">
@@ -58,7 +58,7 @@ function Navbar() {
               <li className="leading-[18px]">Contact</li>
             </a>
           </ul>
-          <div className="Calendlybtn rounded-full lg:mt-0 w-full text-center border appontBtn lg:text-[18px] leading-8 lg:px-8 py-2 bg-[#13a300] text-white font-bold">
+          <div className="Calendlybtn w-[100%] rounded-full lg:mt-0 lg:w-full text-center border appontBtn lg:text-[18px] text-[14px] leading-8 lg:px-8 lg:py-2 px-3 bg-[#13a300] text-white font-bold">
             <a href="https://api.whatsapp.com/send/?phone=9888593715&text&type=phone_number&app_absent=0">Get Touch With Us</a> 
             
           </div>
