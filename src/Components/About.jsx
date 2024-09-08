@@ -42,7 +42,7 @@ tl.from(".expText", {
       <h2 className="lg:text-[42px] mb-10 text-[32px] md:leading-9 font-extrabold">
       A Little About me </h2>
       <p className="lg:text-[18px] text-[#4c4040] text-[16px] leading-[1.5em]  lg:mt-0 mt-2">
-      I’m a front-end web developer with over 14 years of experience. I work with agencies across the globe to create high performance & rich interactive websites that work across all platforms & devices.
+      I’m a front-end web developer with over 5 years of experience. I work with agencies across the globe to create high performance & rich interactive websites that work across all platforms & devices.
       </p>
       <p className="lg:text-[18px] text-[#4c4040] text-[16px] leading-[1.5em] mt-5 pr-4">
       Although I'm very familiar with using frameworks like Laravel, CI, React, Next, Webflow, but my websites are primarily hand-coded using HTML5, CSS3, Tailwind CSS & JS.
