@@ -42,7 +42,7 @@ function Navbar() {
         <div className="logo lg:w-[25%]  w-[40%]">
           <h1 className="lg:text-[26px] font-bold text-white">SHANKAR</h1>
         </div>
-        <div className="lists lg:w-auto w-[60%] flex items-center justify-between gap-10">
+        <div className="lists lg:w-auto w-[60%] flex lg:items-center justify-between items-end gap-10">
           <ul className="hidden sm:hidden md:hidden lg:flex items-center gap-7 text-[20px] text-white font-semibold ">
             <a href="#about">
               <li className="leading-[18px]">About</li>
@@ -50,15 +50,11 @@ function Navbar() {
             <a href="#expertise">
               <li className="leading-[18px]">Expertise</li>
             </a>
-            <a href="#reviews">
-              <li className="leading-[18px]">Reviews</li>
-            </a>
-
             <a href="#contact">
               <li className="leading-[18px]">Contact</li>
             </a>
           </ul>
-          <div className="Calendlybtn w-[100%] rounded-full lg:mt-0 lg:w-full text-center border appontBtn lg:text-[18px] text-[14px] leading-8 lg:px-8 lg:py-2 px-3 bg-[#13a300] text-white font-bold">
+          <div className="Calendlybtn w-[100%] rounded-full lg:mt-0 lg:w-full lg:text-center text-right lg-8 lg:px-8 lg:py-2 py-2 px-3 bg-[#13a300] text-white font-bold">
             <a href="https://api.whatsapp.com/send/?phone=9888593715&text&type=phone_number&app_absent=0">Get Touch With Us</a> 
             
           </div>

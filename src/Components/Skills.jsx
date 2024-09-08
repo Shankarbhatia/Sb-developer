@@ -22,9 +22,23 @@ function Skills() {
         <Tabs className={"mt-16"}>
           <TabList
             className={
-              "flex flex-wrap justify-center items-center gap-x-12 gap-y-5"
+              "flex flex-wrap justify-center items-center gap-x-2 gap-y-5"
             }
           >
+             <Tab
+              className={
+                "text-black lg:px-8 px-4 py-2 font-bold text-center rounded-full border lg:text-[20px] text-[14px] hover:bg-[#391d5d] hover:text-white cursor-pointer"
+              }
+            >
+              Wordpress
+            </Tab>
+            <Tab
+              className={
+                "text-black lg:px-8 px-4 py-2 font-bold text-center rounded-full border lg:text-[20px] text-[14px] hover:bg-[#391d5d] hover:text-white cursor-pointer"
+              }
+            >
+              Webflow
+            </Tab>
             <Tab
               className={
                 "text-black lg:px-8 px-4 py-2 font-bold text-center rounded-full border lg:text-[20px] text-[14px] hover:bg-[#391d5d] hover:text-white cursor-pointer"
@@ -44,29 +58,9 @@ function Skills() {
                 "text-black lg:px-8 px-4 py-2 font-bold text-center rounded-full border lg:text-[20px] text-[14px] hover:bg-[#391d5d] hover:text-white cursor-pointer"
               }
             >
-              Backend Work
-            </Tab>
-            <Tab
-              className={
-                "text-black lg:px-8 px-4 py-2 font-bold text-center rounded-full border lg:text-[20px] text-[14px] hover:bg-[#391d5d] hover:text-white cursor-pointer"
-              }
-            >
               Marketing Landing Pages
             </Tab>
-            <Tab
-              className={
-                "text-black lg:px-8 px-4 py-2 font-bold text-center rounded-full border lg:text-[20px] text-[14px] hover:bg-[#391d5d] hover:text-white cursor-pointer"
-              }
-            >
-              Wordpress
-            </Tab>
-            <Tab
-              className={
-                "text-black lg:px-8 px-4 py-2 font-bold text-center rounded-full border lg:text-[20px] text-[14px] hover:bg-[#391d5d] hover:text-white cursor-pointer"
-              }
-            >
-              Webflow
-            </Tab>
+           
           </TabList>
           <div className="py-5 mt-5">
             <TabPanel>
@@ -74,9 +68,6 @@ function Skills() {
             </TabPanel>
             <TabPanel>
               <WebflowProjects />
-            </TabPanel>
-            <TabPanel>
-              <BackendProjects />
             </TabPanel>
             <TabPanel>
               <HtmlProjects />
