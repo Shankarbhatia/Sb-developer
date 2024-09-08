@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Sb-developer/static/css/main.d69d2b1e.css",
-    "main.js": "/Sb-developer/static/js/main.4089ac1d.js",
+    "main.js": "/Sb-developer/static/js/main.fbfb2e19.js",
     "static/js/453.1895fb9b.chunk.js": "/Sb-developer/static/js/453.1895fb9b.chunk.js",
     "static/media/hero-img.png": "/Sb-developer/static/media/hero-img.537de6ac9471713661d1.png",
     "static/media/Montserrat-VariableFont_wght.ttf": "/Sb-developer/static/media/Montserrat-VariableFont_wght.7e687123cd4528224ce5.ttf",
@@ -45,11 +45,11 @@
     "index.html": "/Sb-developer/index.html",
     "static/media/check-circle-svgrepo-com.svg": "/Sb-developer/static/media/check-circle-svgrepo-com.f6c95d30bcf8e4d1613bbfa30546cf64.svg",
     "main.d69d2b1e.css.map": "/Sb-developer/static/css/main.d69d2b1e.css.map",
-    "main.4089ac1d.js.map": "/Sb-developer/static/js/main.4089ac1d.js.map",
+    "main.fbfb2e19.js.map": "/Sb-developer/static/js/main.fbfb2e19.js.map",
     "453.1895fb9b.chunk.js.map": "/Sb-developer/static/js/453.1895fb9b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d69d2b1e.css",
-    "static/js/main.4089ac1d.js"
+    "static/js/main.fbfb2e19.js"
   ]
 }
