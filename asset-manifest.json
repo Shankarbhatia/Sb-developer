@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Sb-developer/static/css/main.53ade91f.css",
-    "main.js": "/Sb-developer/static/js/main.41a9f2a8.js",
-    "static/js/453.1895fb9b.chunk.js": "/Sb-developer/static/js/453.1895fb9b.chunk.js",
+    "main.css": "/Sb-developer/static/css/main.633753ab.css",
+    "main.js": "/Sb-developer/static/js/main.07b517c3.js",
+    "static/js/453.2fc720c7.chunk.js": "/Sb-developer/static/js/453.2fc720c7.chunk.js",
     "static/media/hero-img.png": "/Sb-developer/static/media/hero-img.537de6ac9471713661d1.png",
     "static/media/Montserrat-VariableFont_wght.ttf": "/Sb-developer/static/media/Montserrat-VariableFont_wght.7e687123cd4528224ce5.ttf",
     "static/media/FunnelProject3.png": "/Sb-developer/static/media/FunnelProject3.e71a48f073a9ae738a55.png",
@@ -18,6 +18,7 @@
     "static/media/FunnelProject10.png": "/Sb-developer/static/media/FunnelProject10.a1dceee170d5bb1b476e.png",
     "static/media/wordpress-project4.png": "/Sb-developer/static/media/wordpress-project4.ef6bf9de3201791cdfd5.png",
     "static/media/reactProject1.png": "/Sb-developer/static/media/reactProject1.b47b412a680dabb620ea.png",
+    "static/media/grain.jpg": "/Sb-developer/static/media/grain.fbdb9bb0e4778aaaec8c.jpg",
     "static/media/FunnelProject7.png": "/Sb-developer/static/media/FunnelProject7.bf0f5b301cda0de23504.png",
     "static/media/wordpress-project1.png": "/Sb-developer/static/media/wordpress-project1.ff423e71bc483475b2f8.png",
     "static/media/webflowProject4.png": "/Sb-developer/static/media/webflowProject4.f84670dc9df6c597c399.png",
@@ -28,6 +29,7 @@
     "static/media/FunnelProject1.png": "/Sb-developer/static/media/FunnelProject1.d426a15d66b62d47ff13.png",
     "static/media/webflowProject6.png": "/Sb-developer/static/media/webflowProject6.e295f6a1f96be1e165a8.png",
     "static/media/FunnelProject9.png": "/Sb-developer/static/media/FunnelProject9.f353bd7e2fe2785dd5a2.png",
+    "static/media/memoji-computer.png": "/Sb-developer/static/media/memoji-computer.77b22962632b29924739.png",
     "static/media/FunnelProject6.png": "/Sb-developer/static/media/FunnelProject6.f28a7b6476e8fcdfac38.png",
     "static/media/emailTemplateproj5.png": "/Sb-developer/static/media/emailTemplateproj5.ff8852f3af1552cc36d4.png",
     "static/media/HtmlProject5.png": "/Sb-developer/static/media/HtmlProject5.b78e0bce7d74ab1e4cf4.png",
@@ -42,14 +44,15 @@
     "static/media/HtmlProject3.jpg": "/Sb-developer/static/media/HtmlProject3.717def367c7b5e52df3b.jpg",
     "static/media/webflowProject5.png": "/Sb-developer/static/media/webflowProject5.3c4fd0bd28c8311077ce.png",
     "static/media/emailTemplateproj2.png": "/Sb-developer/static/media/emailTemplateproj2.2621663115e332ce3773.png",
+    "static/media/reactProject5.png": "/Sb-developer/static/media/reactProject5.35b13636c2bd3591c7a6.png",
     "index.html": "/Sb-developer/index.html",
     "static/media/check-circle-svgrepo-com.svg": "/Sb-developer/static/media/check-circle-svgrepo-com.f6c95d30bcf8e4d1613bbfa30546cf64.svg",
-    "main.53ade91f.css.map": "/Sb-developer/static/css/main.53ade91f.css.map",
-    "main.41a9f2a8.js.map": "/Sb-developer/static/js/main.41a9f2a8.js.map",
-    "453.1895fb9b.chunk.js.map": "/Sb-developer/static/js/453.1895fb9b.chunk.js.map"
+    "main.633753ab.css.map": "/Sb-developer/static/css/main.633753ab.css.map",
+    "main.07b517c3.js.map": "/Sb-developer/static/js/main.07b517c3.js.map",
+    "453.2fc720c7.chunk.js.map": "/Sb-developer/static/js/453.2fc720c7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.53ade91f.css",
-    "static/js/main.41a9f2a8.js"
+    "static/css/main.633753ab.css",
+    "static/js/main.07b517c3.js"
   ]
 }
