@@ -43,7 +43,7 @@ function HtmlProjects() {
           
           {
             htmlData.map((HtmlItem, index) => (
-              <div key={index} className="flex flex-col items-start bg-white rounded">
+              <div key={index} className="flex flex-col items-start bg-white rounded-lg p-3">
               <img className="border p-1  rounded-lg flex-shrink w-full h-68 object-cover  object-center mb-4" src={HtmlItem.projectImage} alt="" />
               <h2 className="title-font text-left font-medium lg:text-lg text-sm text-gray-900">{HtmlItem.tools}</h2>
               <a className="visitSite flex underline hover:no-underline items-center gap-3" href={HtmlItem.link} target='_blank'><p className="font-bold text-black transition-all duration-500">visit website</p> <CiLocationArrow1 className="arrowsvg rotate-[45deg]" /> </a>

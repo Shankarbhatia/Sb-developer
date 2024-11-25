@@ -9,6 +9,10 @@ module.exports = {
       shadownaBar: {
         'boxShadow': 'rgba(0, 0, 0, 0.20) 0px 4px 12px;',
       },
+      fontFamily: {
+        Intersans: ['Inter', 'sans-serif'], // Use 'sans' as the default font in Tailwind classes
+        Calistogasans: ['Calistoga', 'sans-serif'], // Use 'sans' as the default font in Tailwind classes
+      },
     },
   },
   plugins: [],

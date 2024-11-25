@@ -39,22 +39,22 @@ tl.from(".expText", {
     <div id='about' className="w-full lg:h-screen">
     <div ref={aboutContainer} className="container flex justify-between h-auto items-start lg:pt-20 py-10 gap-10 lg:flex-row flex-col lg:px-0  md:px-8 sm:px-6 px-4">
     <div className="expText lg:w-1/2">
-      <h2 className="lg:text-[42px] mb-10 text-[32px] md:leading-9 font-extrabold">
+      <h2 className="lg:text-[42px] text-white mb-10 text-[32px] md:leading-9 font-extrabold font-Calistogasans">
       A Little About me </h2>
-      <p className="lg:text-[18px] text-[#4c4040] text-[16px] leading-[1.5em]  lg:mt-0 mt-2">
-      I’m a front-end web developer with over 2 years of experience. I am well experienced with Wordpress plugins, themes and builders, Webflow, Html, Css, Js, Tailwind and Bootstrap, Click funnels and GHL (go high level).
+      <p className="lg:text-[18px] text-white/90 text-[16px] leading-[1.5em]  lg:mt-0 mt-2 font-Intersans">
+      I’m a front-end web developer with over 2 years of experience. I am well experienced with Wordpress plugins, themes and builders, Webflow, Html, Css, Js, Click funnels and GHL (go high level).
       </p>
-      <p className="lg:text-[18px] text-[#4c4040] text-[16px] leading-[1.5em] mt-5 pr-4">
-      Although I'm very familiar with using frameworks like React Js, Next Js TypeScript. I have used GitHub for version control, including managing repositories, collaborating on code, and automating deployments with GitHub Actions.
+      <p className="lg:text-[18px] text-white/90 text-[16px] leading-[1.5em] mt-5 pr-4 font-Intersans">
+      Although I have also knowledge about React Js, Tailwind and Bootstrap. I have used GitHub for version control, including managing repositories, collaborating on code, and automating deployments with GitHub Actions.
 
       </p>      
-      <p className="lg:text-[18px] text-[#4c4040] text-[16px] leading-[1.5em] mt-5 pr-4">
+      <p className="lg:text-[18px] text-white/90 text-[16px] leading-[1.5em] mt-5 pr-4 font-Intersans">
       With a strong emphasis on "Progressive Enhancement", I look for creative ways to push the boundaries of website front-end code without compromising on browser support and performance.
       </p>
-      <p className="lg:text-[18px] text-[#4c4040] text-[16px] leading-[1.5em] mt-5 pr-4">
+      <p className="lg:text-[18px] text-white/90 text-[16px] leading-[1.5em] mt-5 pr-4 font-Intersans">
       In a quest for always keeping myself updated, I will always search new technoligies.
       </p>
-      <button className="mt-5 text-[18px] leading-8 px-8 py-2 border text-white font-bold bg-[#13a300] rounded-full">
+      <button className="mt-5 text-[18px] leading-8 px-8 py-2 border text-white font-bold bg-green-500 rounded-full">
         <a href="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.thecsshouse.com/wp-content/uploads/2024/02/Shankar_Sr-web-developer.pdf" target="_black">Download Resume</a>
       </button>
     </div>

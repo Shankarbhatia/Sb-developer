@@ -24,7 +24,7 @@ function Progress() {
     <div>
       
    <div className="flex items-start justify-center flex-col">
-   <h2 className="lg:text-[42px] mb-10 text-[32px] md:leading-9 font-extrabold">
+   <h2 className="lg:text-[42px] text-white font-Calistogasans mb-10 text-[32px] md:leading-9 font-extrabold">
    Technical Skills </h2>
   <section className="w-full">
   
@@ -35,9 +35,8 @@ function Progress() {
         </div>
         <div className="space-y-3 flex-1">
           <div className="flex items-center">
-            <h4 className="font-bold  text-[18px] mr-auto text-black flex items-center">
-            Wordpress, Webflow
-            </h4>
+          <h4 className="font-bold  text-[18px] mr-auto text-white/90 font-Intersans flex items-center">
+          React Js, Tailwind CSS and Bootstrap </h4>
           </div>
           <div className="overflow-hidden bg-blue-50 h-2 rounded-full w-full">
             <span className=" h-full bg-custom-pattern block rounded-full w-[85%]"  />
@@ -50,7 +49,7 @@ function Progress() {
         </div>
         <div className="space-y-3 flex-1">
           <div className="flex items-center">
-            <h4 className="font-bold  text-[18px] mr-auto text-black flex items-center">
+            <h4 className="font-bold  text-[18px] mr-auto text-white/90 font-Intersans flex items-center">
             HTML5, CSS3, Js, GSAP animations </h4>
           </div>
           <div className="overflow-hidden bg-blue-50 h-2 rounded-full w-full">
@@ -64,8 +63,9 @@ function Progress() {
         </div>
         <div className="space-y-3 flex-1">
           <div className="flex items-center">
-            <h4 className="font-bold  text-[18px] mr-auto text-black flex items-center">
-            React Js, Next Js, Tailwind CSS and Bootstrap </h4>
+          <h4 className="font-bold  text-[18px] mr-auto font-Intersans text-white/90 flex items-center">
+            Wordpress, Webflow, Click-funnel, GHL
+            </h4>
           </div>
           <div className="overflow-hidden bg-blue-50 h-2 rounded-full w-full">
             <span className="h-full bg-custom-pattern w-full block rounded-full" style={{width: '85%'}} />
@@ -78,8 +78,8 @@ function Progress() {
         </div>
         <div className="space-y-3 flex-1">
           <div className="flex items-center">
-            <h4 className="font-bold  text-[18px] mr-auto text-black flex items-center">
-            Github </h4>
+            <h4 className="font-bold  text-[18px] mr-auto text-white/90 font-Intersans flex items-center">
+            Github, Netlify, Vercel</h4>
           </div>
           <div className="overflow-hidden bg-blue-50 h-2 rounded-full w-full">
             <span className="h-full bg-custom-pattern w-full block rounded-full" style={{width: '85%'}} />
@@ -92,7 +92,7 @@ function Progress() {
         </div>
         <div className="space-y-3 flex-1">
           <div className="flex items-center">
-            <h4 className="font-bold  text-[18px] mr-auto text-black flex items-center">
+            <h4 className="font-bold  text-[18px] mr-auto text-white/90 font-Intersans flex items-center">
             Adobe Photoshop and Figma</h4>
           </div>
           <div className="overflow-hidden bg-blue-50 h-2 rounded-full w-full">

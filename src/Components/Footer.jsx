@@ -6,7 +6,7 @@ import GotoTopBtn from "./GotoTopBtn";
 
 function Footer() {
   return (
-    <div id="book-appointment" className="w-full h-auto">
+    <div id="book-appointment" className="w-full h-auto text-white/70">
       <div className="max-w-[1320px] mx-auto lg:py-3 py-10 md:px-8 sm:px-6 px-4 flex items-center flex-col gap-3">
       <p>© 2020-24 shankar-bhatia.com All Rights Reserved.</p>
 

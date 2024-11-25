@@ -5,22 +5,23 @@ import About from './Components/About'
 import ConsultationBanner from './Components/ConsultationBanner'
 import Skills from './Components/Skills'
 import ContactSection from './Components/ContactSection'
-import Footer from './Components/Footer'
+import Hero from './Components/Hero'
+import Footer from "./Components/Footer"
 // import AnimateMovingCursor from './Components/AnimateMovingCursor'
 
 function App() {
   return (
-    <div >
+    <div className='bg-gray-900 relative z-50'>
       {/* <AnimateMovingCursor /> */}
-      <Navbar />
-      <HeroSection/>
+      {/* <Navbar /> */}
+      <Hero />
+      {/* <HeroSection/> */}
       <About />
       <ConsultationBanner />
       <Skills />    
       <ConsultationBanner />
       <ContactSection />
       <Footer />
-
     </div>
   )
 }
