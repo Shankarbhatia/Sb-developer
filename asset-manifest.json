@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Sb-developer/static/css/main.633753ab.css",
-    "main.js": "/Sb-developer/static/js/main.07b517c3.js",
+    "main.css": "/Sb-developer/static/css/main.25bf9009.css",
+    "main.js": "/Sb-developer/static/js/main.55b436a8.js",
     "static/js/453.2fc720c7.chunk.js": "/Sb-developer/static/js/453.2fc720c7.chunk.js",
     "static/media/hero-img.png": "/Sb-developer/static/media/hero-img.537de6ac9471713661d1.png",
     "static/media/Montserrat-VariableFont_wght.ttf": "/Sb-developer/static/media/Montserrat-VariableFont_wght.7e687123cd4528224ce5.ttf",
@@ -47,12 +47,12 @@
     "static/media/reactProject5.png": "/Sb-developer/static/media/reactProject5.35b13636c2bd3591c7a6.png",
     "index.html": "/Sb-developer/index.html",
     "static/media/check-circle-svgrepo-com.svg": "/Sb-developer/static/media/check-circle-svgrepo-com.f6c95d30bcf8e4d1613bbfa30546cf64.svg",
-    "main.633753ab.css.map": "/Sb-developer/static/css/main.633753ab.css.map",
-    "main.07b517c3.js.map": "/Sb-developer/static/js/main.07b517c3.js.map",
+    "main.25bf9009.css.map": "/Sb-developer/static/css/main.25bf9009.css.map",
+    "main.55b436a8.js.map": "/Sb-developer/static/js/main.55b436a8.js.map",
     "453.2fc720c7.chunk.js.map": "/Sb-developer/static/js/453.2fc720c7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.633753ab.css",
-    "static/js/main.07b517c3.js"
+    "static/css/main.25bf9009.css",
+    "static/js/main.55b436a8.js"
   ]
 }
