@@ -36,7 +36,7 @@ tl.from(".expText", {
 
 
   return (
-    <div id='about' className="w-full lg:h-screen">
+    <div id='about' className="w-full ">
     <div ref={aboutContainer} className="container flex justify-between h-auto items-start lg:pt-20 py-10 gap-10 lg:flex-row flex-col lg:px-0  md:px-8 sm:px-6 px-4">
     <div className="expText lg:w-1/2">
       <h2 className="lg:text-[42px] text-white mb-10 text-[32px] md:leading-9 font-extrabold font-Calistogasans">

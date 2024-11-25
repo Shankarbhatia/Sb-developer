@@ -34,7 +34,7 @@ function Skills() {
             </Tab>
             <Tab
               className={
-                "text-black lg:px-8 px-4 py-2 font-bold text-center rounded-full border lg:text-[20px] text-[14px] text-white/90 hover:bg-[#391d5d] hover:text-white text-white/90 cursor-pointer"
+                "text-black lg:px-8 px-4 py-2 font-bold text-center rounded-full border lg:text-[20px] text-[14px] text-white/90 hover:bg-[#391d5d] hover:text-white  cursor-pointer"
               }
             >
               Webflow
@@ -44,7 +44,7 @@ function Skills() {
                 "text-black lg:px-8 px-4 py-2 font-bold text-center rounded-full border lg:text-[20px] text-[14px] hover:bg-[#391d5d] hover:text-white text-white/90 cursor-pointer"
               }
             >
-              Figma to HTML
+              Figma to Bootstrap/Tailwind
             </Tab>
             <Tab
               className={
