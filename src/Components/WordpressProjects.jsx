@@ -5,13 +5,24 @@ import wprojectImg3 from "../assets/wordpress-project3.png"
 import wprojectImg4 from "../assets/wordpress-project4.png"
 import wprojectImg5 from "../assets/wordpress-project5.png"
 import wprojectImg6 from "../assets/wordpress-project6.png"
+import wprojectImg7 from "../assets/wordpress-project7.png"
 import { CiLocationArrow1 } from "react-icons/ci";
 
 const wordpressData = [
   {
    "projectImage": wprojectImg1,
-   "tools": "Figma,HTML, CSS, JS, WordPress Elementor",
-   "link": "https://cmoconfessions.com/"
+   "tools": "Figma,HTML, CSS, JS, WordPress Elementor + ACF, CPT",
+   "link": "https://flowclub.io/"
+  },
+  {
+   "projectImage": wprojectImg7,
+   "tools": "Figma,HTML, CSS, JS, WordPress Elementor + ACF, CPT",
+   "link": "https://www.skymontcapital.com/"
+  },
+   {
+   "projectImage": wprojectImg6,
+   "tools": "Figma,HTML, CSS, JS, WordPress Elementor + ACF, CPT",
+   "link": "https://hybridteams.co/hybridteams_staging/"
   },
   {
    "projectImage": wprojectImg2,
@@ -32,12 +43,7 @@ const wordpressData = [
    "projectImage": wprojectImg5,
    "tools": "Figma,HTML, CSS, JS, WordPress Elementor",
    "link": "https://abcfinance.co.uk/"
-  },
-  {
-   "projectImage": wprojectImg6,
-   "tools": "Figma,HTML, CSS, JS, WordPress Elementor",
-   "link": "https://mhpreschool.com/"
-  },
+  }
  
  ]
  

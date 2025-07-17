@@ -4,19 +4,25 @@ import ReactProject2 from "../assets/figmaToReact/reactProject2.png"
 import ReactProject3 from "../assets/figmaToReact/reactProject3.png"
 import ReactProject4 from "../assets/figmaToReact/reactProject4.png"
 import ReactProject5 from "../assets/figmaToReact/reactProject5.png"
+import ReactProject6 from "../assets/figmaToReact/reactProject6.png"
 import { CiLocationArrow1 } from "react-icons/ci";
 
 
 const reactData = [
     {
-        "projectImage": ReactProject1,
+        "projectImage": ReactProject6,
         "tools": "Figma, HTML, Tailwind CSS, React.",
-        "link": "https://webuiexpert.github.io/digital-marketing-systems/"
+        "link": "https://fundedlake.com/"
        },
        {
         "projectImage": ReactProject2,
         "tools": "Figma, HTML, Tailwind CSS, React.",
         "link": "https://www.solutionfounder.com/"
+       },
+    {
+        "projectImage": ReactProject1,
+        "tools": "Figma, HTML, Tailwind CSS, React.",
+        "link": "https://webuiexpert.github.io/digital-marketing-systems/"
        },
        {
         "projectImage": ReactProject3,

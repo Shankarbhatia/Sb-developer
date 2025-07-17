@@ -42,7 +42,7 @@ tl.from(".expText", {
       <h2 className="lg:text-[42px] text-white mb-10 text-[32px] md:leading-9 font-extrabold font-Calistogasans">
       A Little About me </h2>
       <p className="lg:text-[18px] text-white/90 text-[16px] leading-[1.5em]  lg:mt-0 mt-2 font-Intersans">
-      I’m a front-end web developer with over 5+ years of experience. I am well experienced with Wordpress plugins, themes and builders, Webflow, Html, Css, Js, Click funnels and GHL (go high level).
+      I’m a front-end web developer with over 2+ years of experience. I am well experienced with Wordpress plugins, themes and builders, Webflow, Html, Css, Js, Click funnels and GHL (go high level).
       </p>
       <p className="lg:text-[18px] text-white/90 text-[16px] leading-[1.5em] mt-5 pr-4 font-Intersans">
       Although I have also knowledge about React Js, Tailwind and Bootstrap. I have used GitHub for version control, including managing repositories, collaborating on code, and automating deployments with GitHub Actions.

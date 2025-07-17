@@ -5,13 +5,23 @@ import webflowProject3 from "../assets/webflowProjectsImages/webflowProject3.png
 import webflowProject4 from "../assets/webflowProjectsImages/webflowProject4.png"
 import webflowProject5 from "../assets/webflowProjectsImages/webflowProject5.png"
 import webflowProject6 from "../assets/webflowProjectsImages/webflowProject6.png"
+import webflowProject7 from "../assets/webflowProjectsImages/webflowProject7.png"
+import webflowProject8 from "../assets/webflowProjectsImages/webflowProject8.png"
 import { CiLocationArrow1 } from "react-icons/ci";
 
 
 
 const webflowdata = [
-        {
-            "projectImage": webflowProject1,
+        
+           {"projectImage": webflowProject8,
+            "tools": "Figma, HTML, CSS, Webflow.",
+            "link": "https://ambi.careers/"
+           },
+           {"projectImage": webflowProject7,
+            "tools": "Figma, HTML, CSS, Webflow.",
+            "link": "https://oovacha.webflow.io/"
+           },
+           {"projectImage": webflowProject1,
             "tools": "Figma, HTML, CSS, Webflow.",
             "link": "https://www.getladle.com/"
            },
