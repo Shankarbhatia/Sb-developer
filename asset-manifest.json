@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Sb-developer/static/css/main.25bf9009.css",
-    "main.js": "/Sb-developer/static/js/main.dae5be37.js",
+    "main.js": "/Sb-developer/static/js/main.86b7ab16.js",
     "static/js/453.2fc720c7.chunk.js": "/Sb-developer/static/js/453.2fc720c7.chunk.js",
     "static/media/hero-img.png": "/Sb-developer/static/media/hero-img.537de6ac9471713661d1.png",
     "static/media/Montserrat-VariableFont_wght.ttf": "/Sb-developer/static/media/Montserrat-VariableFont_wght.7e687123cd4528224ce5.ttf",
@@ -14,18 +14,22 @@
     "static/media/wordpress-project3.png": "/Sb-developer/static/media/wordpress-project3.613687523f0801e66813.png",
     "static/media/wordpress-project2.png": "/Sb-developer/static/media/wordpress-project2.db5c55e036febdd2ee1b.png",
     "static/media/HtmlProject1.png": "/Sb-developer/static/media/HtmlProject1.1887316ed57e9372d062.png",
+    "static/media/wordpress-project6.png": "/Sb-developer/static/media/wordpress-project6.07e93fb351c0df252739.png",
+    "static/media/wordpress-project1.png": "/Sb-developer/static/media/wordpress-project1.969ff90a7ea7a4697098.png",
     "static/media/FunnelProject2.png": "/Sb-developer/static/media/FunnelProject2.0acf2fc4735ec08c8a90.png",
     "static/media/FunnelProject10.png": "/Sb-developer/static/media/FunnelProject10.a1dceee170d5bb1b476e.png",
     "static/media/wordpress-project4.png": "/Sb-developer/static/media/wordpress-project4.ef6bf9de3201791cdfd5.png",
     "static/media/reactProject1.png": "/Sb-developer/static/media/reactProject1.b47b412a680dabb620ea.png",
     "static/media/grain.jpg": "/Sb-developer/static/media/grain.fbdb9bb0e4778aaaec8c.jpg",
     "static/media/FunnelProject7.png": "/Sb-developer/static/media/FunnelProject7.bf0f5b301cda0de23504.png",
-    "static/media/wordpress-project1.png": "/Sb-developer/static/media/wordpress-project1.ff423e71bc483475b2f8.png",
     "static/media/webflowProject4.png": "/Sb-developer/static/media/webflowProject4.f84670dc9df6c597c399.png",
     "static/media/reactProject2.png": "/Sb-developer/static/media/reactProject2.b4331155b1280e1b5ce1.png",
+    "static/media/wordpress-project7.png": "/Sb-developer/static/media/wordpress-project7.4a66264281a03abb7423.png",
     "static/media/FunnelProject5.png": "/Sb-developer/static/media/FunnelProject5.67d5316520e6009c6fcd.png",
     "static/media/FunnelProject4.png": "/Sb-developer/static/media/FunnelProject4.7e0a86a510e16de55118.png",
+    "static/media/webflowProject8.png": "/Sb-developer/static/media/webflowProject8.1f3d5b25aed6b44ddd0e.png",
     "static/media/HtmlProject2.png": "/Sb-developer/static/media/HtmlProject2.131f96d5fe11c5a8f69c.png",
+    "static/media/reactProject6.png": "/Sb-developer/static/media/reactProject6.c42783b1425081f4da99.png",
     "static/media/FunnelProject1.png": "/Sb-developer/static/media/FunnelProject1.d426a15d66b62d47ff13.png",
     "static/media/webflowProject6.png": "/Sb-developer/static/media/webflowProject6.e295f6a1f96be1e165a8.png",
     "static/media/FunnelProject9.png": "/Sb-developer/static/media/FunnelProject9.f353bd7e2fe2785dd5a2.png",
@@ -33,9 +37,9 @@
     "static/media/FunnelProject6.png": "/Sb-developer/static/media/FunnelProject6.f28a7b6476e8fcdfac38.png",
     "static/media/emailTemplateproj5.png": "/Sb-developer/static/media/emailTemplateproj5.ff8852f3af1552cc36d4.png",
     "static/media/HtmlProject5.png": "/Sb-developer/static/media/HtmlProject5.b78e0bce7d74ab1e4cf4.png",
-    "static/media/wordpress-project6.png": "/Sb-developer/static/media/wordpress-project6.b78e0bce7d74ab1e4cf4.png",
     "static/media/reactProject4.png": "/Sb-developer/static/media/reactProject4.2cd168d3bee6df64bfed.png",
     "static/media/wordpress-project5.png": "/Sb-developer/static/media/wordpress-project5.73119d819936d8fb185b.png",
+    "static/media/webflowProject7.png": "/Sb-developer/static/media/webflowProject7.34871adfeaa704200f58.png",
     "static/media/webflowProject1.png": "/Sb-developer/static/media/webflowProject1.ae75e389a21e1ff280e6.png",
     "static/media/webflowProject2.png": "/Sb-developer/static/media/webflowProject2.a4fb99389b85ec42a4cf.png",
     "static/media/HtmlProject4.jpg": "/Sb-developer/static/media/HtmlProject4.3329792b5ef2dcd5f870.jpg",
@@ -48,11 +52,11 @@
     "index.html": "/Sb-developer/index.html",
     "static/media/check-circle-svgrepo-com.svg": "/Sb-developer/static/media/check-circle-svgrepo-com.f6c95d30bcf8e4d1613bbfa30546cf64.svg",
     "main.25bf9009.css.map": "/Sb-developer/static/css/main.25bf9009.css.map",
-    "main.dae5be37.js.map": "/Sb-developer/static/js/main.dae5be37.js.map",
+    "main.86b7ab16.js.map": "/Sb-developer/static/js/main.86b7ab16.js.map",
     "453.2fc720c7.chunk.js.map": "/Sb-developer/static/js/453.2fc720c7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.25bf9009.css",
-    "static/js/main.dae5be37.js"
+    "static/js/main.86b7ab16.js"
   ]
 }
