@@ -3,10 +3,10 @@ import { Tab, Tabs, TabList, TabPanel } from "react-tabs";
 import "react-tabs/style/react-tabs.css";
 import WordpressProjects from "./WordpressProjects";
 import WebflowProjects from "./WebflowProjects";
-import BackendProjects from "./BackendProjectsProjects";
 import HtmlProjects from "./HtmlProjects";
 import FigmaToReact from "./FigmaToReact";
 import MarketingLandingPages from "./MarketingLandingPages";
+import ShopifyProjects from "./ShopifyProjects";
 
 function Skills() {
   return (
@@ -17,7 +17,7 @@ function Skills() {
           projects
         </h3>
         <h4 className="text-center text-[24px] text-white/90 font-Intersans">
-          Below are the list of few projects that will showcase my strength.
+          A selection of website builds, design conversions and landing pages.
         </h4>
         <Tabs className={"mt-16"}>
           <TabList
@@ -60,6 +60,14 @@ function Skills() {
             >
               Marketing Landing Pages
             </Tab>
+             <Tab
+              className={
+                "text-black lg:px-8 px-4 py-2 font-bold text-center rounded-full border lg:text-[20px] text-[14px] hover:bg-[#391d5d] hover:text-white text-white/90 cursor-pointer"
+              }
+            >
+              Shopify
+            </Tab>
+
            
           </TabList>
           <div className="py-5 mt-5">
@@ -77,6 +85,9 @@ function Skills() {
             </TabPanel>
             <TabPanel>
               <MarketingLandingPages />
+            </TabPanel>
+            <TabPanel>
+              <ShopifyProjects />
             </TabPanel>
           </div>
         </Tabs>
