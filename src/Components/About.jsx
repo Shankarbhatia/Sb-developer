@@ -7,17 +7,18 @@ export default function About() {
         <span>01</span> ABOUT ME
       </div>
       <div className="about-grid">
-        <h2>Good design deserves <em>great development.</em></h2>
+        <h2>3 years of building <em>digital experiences.</em></h2>
         <div className="about-copy">
           <p>
-            I’m Shankar, a frontend designer and developer from Mohali. I enjoy
-            turning Figma designs and ideas into clean, responsive websites
-            that feel simple to use and look polished on every screen.
+            I’m Shankar, a frontend designer and developer from Mohali with
+            3 years of experience creating responsive websites, landing pages
+            and user-friendly digital experiences.
           </p>
           <p>
-            My work spans custom frontend development, WordPress, Webflow and
-            ecommerce platforms. I also build landing pages and bring
-            interfaces to life with thoughtful interactions and animation.
+            My work spans frontend development, WordPress, Webflow, Shopify
+            and other website platforms. I enjoy turning Figma designs and
+            ideas into polished websites, with thoughtful interactions and
+            attention to detail.
           </p>
           <a
             className="text-link"
