@@ -33,8 +33,8 @@ export default function Navbar() {
               {label}
             </a>
           ))}
-          <a className="nav-cta" href="#contact" onClick={() => setOpen(false)}>
-            Contact me ↗
+          <a className="nav-cta" href="https://api.whatsapp.com/send/?phone=9888593715&text&type=phone_number&app_absent=0" target="_blank" rel="noreferrer" onClick={() => setOpen(false)}>
+            Hire me ↗
           </a>
         </div>
       </nav>
